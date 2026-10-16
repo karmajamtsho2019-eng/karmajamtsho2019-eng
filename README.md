@@ -6,7 +6,7 @@
 
 # Karma Jamtsho
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Engineer;Python+%7C+Django+%7C+AI+Projects;Open+to+Internships+%26+Placements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=780&lines=Software+Developer;Full-Stack+Engineer;Python+%7C+Django+%7C+AI+Projects;Open+to+Internships+%26+Placements" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,12 +21,12 @@
 
 ## About Me
 
-I’m a software developer focused on building practical, user-centered applications using Python, Django, and modern web technologies. I enjoy turning real-world problems into clean, scalable solutions and creating projects that are strong enough for interviews, portfolios, and internships.
+I build full-stack applications that solve real problems, with a focus on backend systems, user experience, and AI-powered solutions. My goal is to create work that is both technically solid and meaningful in the real world.
 
 - 🔭 Building full-stack applications with real business value
 - 🌱 Learning backend architecture, deployment, and AI integration
 - 💡 Interested in backend engineering, automation, and product-minded development
-- 🎯 Open to internships, placements, and full-time opportunities
+- 🎯 Open to internships, placements, and software engineering opportunities
 - 🚀 Goal: build polished, production-minded projects that stand out
 
 ## Featured Project
