@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/karmajamtsho2019-eng/karmajamtsho2019-eng/main/profile-banner.svg" width="100%" alt="Karma cyberpunk profile banner" />
+
+<br/>
+
 # Karma Jamtsho
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+Django+%7C+Full-Stack;AI+Projects+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Engineer;Python+%7C+Django+%7C+AI+Projects;Open+to+Internships+%26+Placements" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,15 +21,15 @@
 
 ## About Me
 
-I’m a software developer passionate about building practical, impactful applications that solve real problems. My focus is on full-stack development, backend systems, and AI-driven projects that combine clean engineering with user-friendly design.
+I build modern software products that solve real problems, with a focus on full-stack development, backend architecture, and AI-driven applications. I enjoy creating projects that are practical, elegant, and portfolio-ready.
 
-- 🔭 Building production-ready web apps and project-based solutions
-- 🌱 Learning advanced Django, deployment, and AI integration
-- 💡 Interested in backend architecture, automation, and user-centric product design
-- 🎯 Looking for internships, placements, and collaboration opportunities
-- 🚀 Goal: create portfolio projects that stand out in interviews and real-world use cases
+- 🔭 Building full-stack web apps and intelligent solutions
+- 🌱 Learning advanced Django, cloud deployment, and AI integration
+- 💡 Interested in backend systems, automation, and product-minded development
+- 🎯 Open to internships, placements, and software engineering opportunities
+- 🚀 Goal: turn ideas into impactful, interview-ready projects
 
-## Featured Projects
+## Featured Project
 
 <div align="center">
 
@@ -36,12 +40,12 @@ I’m a software developer passionate about building practical, impactful applic
 </div>
 
 ### Smart Attendance System
-A Django-based attendance management app built for educational institutions with:
-- Role-based admin, teacher, and student access
-- Manual attendance tracking and subject-wise reporting
-- Attendance analytics and summary dashboards
-- AI-assisted face recognition using uploaded student/classroom images
-- Modern UI built for a clean, portfolio-ready presentation
+A Django-based attendance management system with:
+- admin, teacher, and student role-based access
+- subject and date-based attendance tracking
+- analytics dashboards and reporting
+- AI-powered face recognition support via uploaded images
+- modern portfolio-friendly UI design
 
 ## Tech Stack
 
@@ -50,7 +54,7 @@ A Django-based attendance management app built for educational institutions with
 - Django
 - PostgreSQL
 - SQLite
-- REST APIs
+- REST API development
 
 ### Frontend
 - HTML
@@ -77,9 +81,9 @@ A Django-based attendance management app built for educational institutions with
 ## Current Focus
 
 - Building polished portfolio projects
-- Improving backend and database design skills
-- Learning cloud deployment and production-ready configuration
-- Exploring AI integration in real-world software products
+- Improving backend architecture and database design
+- Learning deployment and production-ready configuration
+- Exploring AI integration in real-world solutions
 
 ## Connect
 
@@ -89,7 +93,7 @@ A Django-based attendance management app built for educational institutions with
   </a>
 </p>
 
-I’m actively improving my GitHub profile, projects, and technical skills to present myself confidently for placements and software opportunities.
+I’m actively building stronger projects, improving my technical skills, and preparing my profile for internships, placements, and software opportunities.
 
 ---
 
