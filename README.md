@@ -6,7 +6,7 @@
 
 # Karma Jamtsho
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Engineer;Python+%7C+Django+%7C+AI+Projects;Open+to+Internships+%26+Placements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Engineer;Python+%7C+Django+%7C+AI+Projects;Open+to+Internships+%26+Placements" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,13 +21,13 @@
 
 ## About Me
 
-I build modern software products that solve real problems, with a focus on full-stack development, backend architecture, and AI-driven applications. I enjoy creating projects that are practical, elegant, and portfolio-ready.
+I’m a software developer focused on building practical, user-centered applications using Python, Django, and modern web technologies. I enjoy turning real-world problems into clean, scalable solutions and creating projects that are strong enough for interviews, portfolios, and internships.
 
-- 🔭 Building full-stack web apps and intelligent solutions
-- 🌱 Learning advanced Django, cloud deployment, and AI integration
-- 💡 Interested in backend systems, automation, and product-minded development
-- 🎯 Open to internships, placements, and software engineering opportunities
-- 🚀 Goal: turn ideas into impactful, interview-ready projects
+- 🔭 Building full-stack applications with real business value
+- 🌱 Learning backend architecture, deployment, and AI integration
+- 💡 Interested in backend engineering, automation, and product-minded development
+- 🎯 Open to internships, placements, and full-time opportunities
+- 🚀 Goal: build polished, production-minded projects that stand out
 
 ## Featured Project
 
@@ -40,12 +40,12 @@ I build modern software products that solve real problems, with a focus on full-
 </div>
 
 ### Smart Attendance System
-A Django-based attendance management system with:
-- admin, teacher, and student role-based access
-- subject and date-based attendance tracking
-- analytics dashboards and reporting
-- AI-powered face recognition support via uploaded images
-- modern portfolio-friendly UI design
+A Django-based attendance management system for educational institutions with:
+- role-based access for admins, teachers, and students
+- subject-wise attendance tracking and summaries
+- analytics dashboards and reporting workflows
+- AI-assisted face recognition using uploaded student/classroom images
+- modern portfolio-ready UI and backend architecture
 
 ## Tech Stack
 
@@ -54,7 +54,7 @@ A Django-based attendance management system with:
 - Django
 - PostgreSQL
 - SQLite
-- REST API development
+- REST APIs
 
 ### Frontend
 - HTML
@@ -80,10 +80,10 @@ A Django-based attendance management system with:
 
 ## Current Focus
 
-- Building polished portfolio projects
-- Improving backend architecture and database design
-- Learning deployment and production-ready configuration
-- Exploring AI integration in real-world solutions
+- Building stronger portfolio projects with real-world relevance
+- Improving backend design, database logic, and deployment workflows
+- Learning AI integration and scalable software engineering practices
+- Preparing for internships and placement opportunities
 
 ## Connect
 
@@ -93,7 +93,7 @@ A Django-based attendance management system with:
   </a>
 </p>
 
-I’m actively building stronger projects, improving my technical skills, and preparing my profile for internships, placements, and software opportunities.
+I’m continuously improving my technical skills and project quality to present myself confidently for internships, placements, and software opportunities.
 
 ---
 
